@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩‍💻 Computer Science graduate with an interest in software development, data analytics. Always eager to learn, grow, and contribute to meaningful projects
+🔭I am a curious and motivated individual who enjoys learning new things and taking on challenges. I believe in continuous growth, hard work, and using technology to make a positive impact. I enjoy solving problems, exploring innovative ideas, and working collaboratively with others
+🛰️ Experienced in using Google Earth Engine and Sentinel-2 satellite imagery for environmental monitoring
+🔍 Strong interest in software development and real-world problem solving
+📚 Dedicated to continuous learning and professional growth
+🚀 Open to opportunities that allow me to learn, innovate, and make an impact through technology
